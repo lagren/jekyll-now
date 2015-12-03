@@ -9,6 +9,14 @@ Some information about you!
 ### More Information
 
 <table>
+  <thead>
+    <tr>
+      <th>Endelser</th>
+      <th>Hankjønn</th>
+      <th>Hunkjønn</th>
+      <th>Intetkjønn</th>
+    </tr>
+  </thead>
   <tbody>
   <tr>
     <td>Adjektiv</td>
