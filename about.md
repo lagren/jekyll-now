@@ -24,6 +24,12 @@ Some information about you!
     <td>-a</td>
     <td>-e<br />-ie (ved -k og -g)</td>
   </tr>
+  <tr>
+    <td>Substantiv</td>
+    <td>Konsonanter<br />-a (ved person)</td>
+    <td>-a<br />-i</td>
+    <td>-o<br />-e</br />-ę<br />-um</td>
+  </tr>
   </tbody>
 </table>
 
