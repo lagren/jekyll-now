@@ -8,6 +8,17 @@ Some information about you!
 
 ### More Information
 
+<table>
+  <tbody>
+  <tr>
+    <td>Adjektiv</td>
+    <td>-y<br />-i (ved -k og -g)</td>
+    <td>-a</td>
+    <td>-e<br />-ie (ved -k og -g)</td>
+  </tr>
+  </tbody>
+</table>
+
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
